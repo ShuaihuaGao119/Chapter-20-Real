@@ -960,10 +960,16 @@
                 }
             }
 
-            // Show the results without revealing the correct answers
+            // Show the results
             let totalQuestions = Object.keys(correctAnswers).length;
             let resultDiv = document.getElementById('result');
             resultDiv.innerHTML = `You scored ${score} out of ${totalQuestions}.`;
+
+            // Optionally, display correct answers here
+            resultDiv.innerHTML += '<br><br>Correct Answers:<br>';
+            for (let question in correctAnswers) {
+                resultDiv.innerHTML += `${question}: ${correctAnswers[question]}<br>`;
+            }
         }
     </script>
 </body>

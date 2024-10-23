@@ -844,7 +844,7 @@
 </div>
         <!-- Add more questions as needed -->
 
-        <input type="submit" value="Submit Test">
+       <input type="submit" value="Submit Test">
     </form>
 
     <div class="result" id="result"></div>
@@ -853,99 +853,98 @@
         document.getElementById('quizForm').onsubmit = function(event) {
             event.preventDefault();  // Prevent form submission
             
-           let score = 0;
-let correctAnswers = {
-    q1: "d",
-    q2: "a",
-    q3: "b",
-    q4: "c",
-    q5: "d",
-    q6: "a",
-    q7: "c",
-    q8: "c",
-    q9: "d",
-    q10_1: "superior atria",
-    q10_2: "inferior ventricles",
-    q11: "e",
-    q12: "b",
-    q13: "a",
-    q14: "c",
-    q15: "a",
-    q16: "d",
-    q17: "e",
-    q18: "The left ventricle muscular wall is thicker than the right ventricle because it has to generate higher pressure to overcome the greater resistance of the longer systemic circulation route versus the shorter pulmonary circulation route.",
-    q19: "e",
-    q20: "d",
-    q21: "c",
-    q22: "The two circuits are the pulmonary and systemic circuits. Venous blood from the systemic circulation enters the right atrium...",
-    q23: "c",
-    q24: "a",
-    q25: "c",
-    q26: "c",
-    q27: "Cardiac muscle lacks stem cells and mature cardiac muscle fibers cannot go through mitosis.",
-    q28: "A study of male heart transplant patients...",
-    q29: "d",
-    q30: "d",
-    q31: "a longer",
-    q32: "a",
-    q33: "b",
-    q34_1: "0.1 second",
-    q34_2: "0.3 second",
-    q35: "d",
-    q36: "d",
-    q37: "a",
-    q38: "d",
-    q39: "d",
-    q40: "c",
-    q41: "The Frank-Starling law of the heart states that the more the heart fills with blood during diastole...",
-    q42: "c",
-    q43: "b",
-    q44: "c",
-    q45: "d",
-    q46: "d",
-    q47: "c",
-    q48: "e",
-    q49: "c",
-    q50: "b",
-    q51: "d",
-    q52: "d",
-    q53: "Phase 2 is the plateau phase which occurs due to opening of voltage-gated slow calcium channels...",
-    q54: "The contractile fibers of the ventricles are repolarizing, which generates the T wave in the ECG.",
-    q55: "a",
-    q56: "a",
-    q57: "c",
-    q58: "c",
-    q59: "b",
-    q60: "a",
-    q61: "d",
-    q62: "d",
-    q63: "a",
-    q64: "c",
-    q65: "d",
-    q66: "Low-density lipoproteins (LDL) transport cholesterol from the liver to body cells...",
-    q67: "b",
-    q68: "a",
-    q69: "a",
-    q70: "b",
-    q71_1: "thyroid hormone",
-    q71_2: "epinephrine",
-    q72: "c",
-    q73: "c",
-    q74: "e",
-    q75: "Fatty acids and glucose.",
-    q76: "An abnormal rhythm due to a defect in the conduction system.",
-    q77_1: "left or right",
-    q77_2: "aorta or pulmonary trunk",
-    q78: "d",
-    q79: "a",
-    q80: "e",
-    q81: "d",
-    q82: "e",
-    q83: "b",
-    q84: "e",
-    q85: "e"
-};
-
+            let score = 0;
+            let correctAnswers = {
+                q1: "d",
+                q2: "a",
+                q3: "b",
+                q4: "c",
+                q5: "d",
+                q6: "a",
+                q7: "c",
+                q8: "c",
+                q9: "d",
+                q10_1: "superior atria",
+                q10_2: "inferior ventricles",
+                q11: "e",
+                q12: "b",
+                q13: "a",
+                q14: "c",
+                q15: "a",
+                q16: "d",
+                q17: "e",
+                q18: "The left ventricle muscular wall is thicker than the right ventricle because it has to generate higher pressure to overcome the greater resistance of the longer systemic circulation route versus the shorter pulmonary circulation route.",
+                q19: "e",
+                q20: "d",
+                q21: "c",
+                q22: "The two circuits are the pulmonary and systemic circuits. Venous blood from the systemic circulation enters the right atrium...",
+                q23: "c",
+                q24: "a",
+                q25: "c",
+                q26: "c",
+                q27: "Cardiac muscle lacks stem cells and mature cardiac muscle fibers cannot go through mitosis.",
+                q28: "A study of male heart transplant patients...",
+                q29: "d",
+                q30: "d",
+                q31: "a longer",
+                q32: "a",
+                q33: "b",
+                q34_1: "0.1 second",
+                q34_2: "0.3 second",
+                q35: "d",
+                q36: "d",
+                q37: "a",
+                q38: "d",
+                q39: "d",
+                q40: "c",
+                q41: "The Frank-Starling law of the heart states that the more the heart fills with blood during diastole...",
+                q42: "c",
+                q43: "b",
+                q44: "c",
+                q45: "d",
+                q46: "d",
+                q47: "c",
+                q48: "e",
+                q49: "c",
+                q50: "b",
+                q51: "d",
+                q52: "d",
+                q53: "Phase 2 is the plateau phase which occurs due to opening of voltage-gated slow calcium channels...",
+                q54: "The contractile fibers of the ventricles are repolarizing, which generates the T wave in the ECG.",
+                q55: "a",
+                q56: "a",
+                q57: "c",
+                q58: "c",
+                q59: "b",
+                q60: "a",
+                q61: "d",
+                q62: "d",
+                q63: "a",
+                q64: "c",
+                q65: "d",
+                q66: "Low-density lipoproteins (LDL) transport cholesterol from the liver to body cells...",
+                q67: "b",
+                q68: "a",
+                q69: "a",
+                q70: "b",
+                q71_1: "thyroid hormone",
+                q71_2: "epinephrine",
+                q72: "c",
+                q73: "c",
+                q74: "e",
+                q75: "Fatty acids and glucose.",
+                q76: "An abnormal rhythm due to a defect in the conduction system.",
+                q77_1: "left or right",
+                q77_2: "aorta or pulmonary trunk",
+                q78: "d",
+                q79: "a",
+                q80: "e",
+                q81: "d",
+                q82: "e",
+                q83: "b",
+                q84: "e",
+                q85: "e"
+            };
 
             // Evaluate the form inputs
             let form = new FormData(this);
@@ -955,16 +954,10 @@ let correctAnswers = {
                 }
             }
 
-            // Show the results
+            // Show the results without revealing the correct answers
             let totalQuestions = Object.keys(correctAnswers).length;
             let resultDiv = document.getElementById('result');
             resultDiv.innerHTML = `You scored ${score} out of ${totalQuestions}.`;
-
-            // Optionally, display correct answers here
-            resultDiv.innerHTML += '<br><br>Correct Answers:<br>';
-            for (let question in correctAnswers) {
-                resultDiv.innerHTML += `${question}: ${correctAnswers[question]}<br>`;
-            }
         }
     </script>
 </body>

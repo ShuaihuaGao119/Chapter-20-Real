@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +8,7 @@
         body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; }
         .question { margin-bottom: 20px; }
         .result { margin-top: 20px; font-weight: bold; }
+        .correct-answer { color: green; font-weight: bold; }
     </style>
 </head>
 <body>
@@ -1007,25 +1007,30 @@
                 q85: "e"
             };
 
-            // Evaluate the form inputs
+           // Evaluate the form inputs
             let form = new FormData(this);
             for (let question in correctAnswers) {
-                if (form.get(question) === correctAnswers[question]) {
+                let selectedAnswer = form.get(question);
+                if (selectedAnswer === correctAnswers[question]) {
                     score++;
+                }
+
+                // Display correct answer below each question
+                let correctAnswerElement = document.getElementById(`correct-${question}`);
+                if (selectedAnswer === correctAnswers[question]) {
+                    correctAnswerElement.innerHTML = "Correct!";
+                } else {
+                    correctAnswerElement.innerHTML = `Incorrect. The correct answer is: ${correctAnswers[question]}`;
                 }
             }
 
-            // Show the results
+            // Show the total result
             let totalQuestions = Object.keys(correctAnswers).length;
             let resultDiv = document.getElementById('result');
             resultDiv.innerHTML = `You scored ${score} out of ${totalQuestions}.`;
-
-            // Optionally, display correct answers here
-            resultDiv.innerHTML += '<br><br>Correct Answers:<br>';
-            for (let question in correctAnswers) {
-                resultDiv.innerHTML += `${question}: ${correctAnswers[question]}<br>`;
-            }
         }
     </script>
+</body>
+</html>
 </body>
 </html>

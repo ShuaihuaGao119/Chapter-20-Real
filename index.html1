@@ -1,1 +1,1031 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>84-Question Test Bank Quiz</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; }
+        .question { margin-bottom: 20px; }
+        .result { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>84-Question Test Bank Quiz</h1>
+    <form id="quizForm">
+
+      <!-- Question 1 -->
+      <div class="question">
+          <p>1) This is the term for the anatomical region found between the lungs extending from the sternum to the vertebral column and from the first rib to the diaphragm.</p>
+                                               
+          <label><input type="radio" name="q1" value="a"> epicardium.</label><br>
+          <label><input type="radio" name="q1" value="b"> abdominal cavity.</label><br>
+          <label><input type="radio" name="q1" value="c"> pericardium.</label><br>
+          <label><input type="radio" name="q1" value="d"> mediastinum.</label><br>
+          <label><input type="radio" name="q1" value="e"> thoracic cavity.</label>
+      </div>
+
+      <!-- Question 2 -->
+      <div class="question">
+          <p>2) The membrane that surrounds and protects the heart is called the.</p>
+          <label><input type="radio" name="q2" value="a"> pericardium.</label><br>
+          <label><input type="radio" name="q2" value="b"> pleura.</label><br>
+          <label><input type="radio" name="q2" value="c"> myocardium.</label><br>
+          <label><input type="radio" name="q2" value="d"> mediastinum.</label><br>
+          <label><input type="radio" name="q2" value="e"> endocardium.</label>
+      </div>
+
+      <!-- Question 3 -->
+      <div class="question">
+          <p>3) The apex of the heart is normally pointed.</p>
+          <label><input type="radio" name="q3" value="a"> at the midline.</label><br>
+          <label><input type="radio" name="q3" value="b"> to the left of the midline.</label><br>
+          <label><input type="radio" name="q3" value="c"> to the right of the midline.</label><br>
+          <label><input type="radio" name="q3" value="d"> differently for males and females.</label><br>
+          <label><input type="radio" name="q3" value="e"> posteriorly.</label>
+      </div>
+
+      <!-- Question 4 -->
+      <div class="question">
+          <p>4) Trauma to the pericardium associated with bleeding into the pericardial cavity might cause.</p>
+          <label><input type="radio" name="q4" value="a"> myocarditis.</label><br>
+          <label><input type="radio" name="q4" value="b"> endocarditis.</label><br>
+          <label><input type="radio" name="q4" value="c"> cardiac tamponade.</label><br>
+          <label><input type="radio" name="q4" value="d"> rapid heart rate.</label><br>
+          <label><input type="radio" name="q4" value="e"> ventricular tachycardia.</label>
+      </div>
+
+      <!-- Question 5 -->
+      <div class="question">
+          <p>5) Which of the following is used to reduce friction between the layers of membranes surrounding the heart?</p>
+          <label><input type="radio" name="q5" value="a"> Synovial fluid.</label><br>
+          <label><input type="radio" name="q5" value="b"> Endocardium.</label><br>
+          <label><input type="radio" name="q5" value="c"> Pleural fluid.</label><br>
+          <label><input type="radio" name="q5" value="d"> Pericardial fluid.</label><br>
+          <label><input type="radio" name="q5" value="e"> Capillary endothelium.</label>
+      </div>
+
+      <!-- Question 6 -->
+      <div class="question">
+          <p>6) The visceral layer of the serous pericardium is also called the.</p>
+          <label><input type="radio" name="q6" value="a"> epicardium.</label><br>
+          <label><input type="radio" name="q6" value="b"> myocardium.</label><br>
+          <label><input type="radio" name="q6" value="c"> endocardium.</label><br>
+          <label><input type="radio" name="q6" value="d"> fibrous pericardium.</label><br>
+          <label><input type="radio" name="q6" value="e"> pericardial fluid.</label>
+      </div>
+
+      <!-- Question 7 -->
+      <div class="question">
+          <p>7) Which layer of the heart wall consists of cardiac muscle tissue?</p>
+          <label><input type="radio" name="q7" value="a"> Epicardium.</label><br>
+          <label><input type="radio" name="q7" value="b"> Pericardium.</label><br>
+          <label><input type="radio" name="q7" value="c"> myocardium.</label><br>
+          <label><input type="radio" name="q7" value="d"> Endocardium.</label><br>
+          <label><input type="radio" name="q7" value="e"> Hypocardium.</label>
+      </div>
+
+      <!-- Question 8 -->
+      <div class="question">
+          <p>8) A patient presents with a fever, heart murmur, irregular heartbeat, fatigue, loss of appetite and night sweats. As a physician, your diagnosis would be that of endocarditis typically caused by.</p>
+          <label><input type="radio" name="q8" value="a"> a virus.</label><br>
+          <label><input type="radio" name="q8" value="b"> an autoimmune condition.</label><br>
+          <label><input type="radio" name="q8" value="c"> a bacterial infection.</label><br>
+          <label><input type="radio" name="q8" value="d"> exposure to radiation.</label><br>
+          <label><input type="radio" name="q8" value="e"> cancer.</label>
+      </div>
+
+      <!-- Question 9 -->
+      <div class="question">
+          <p>9) Cardiac tamponade may develop following a case of.</p>
+          <label><input type="radio" name="q9" value="a"> myocarditis.</label><br>
+          <label><input type="radio" name="q9" value="b"> endocarditis.</label><br>
+          <label><input type="radio" name="q9" value="c"> palpitation.</label><br>
+          <label><input type="radio" name="q9" value="d"> pericarditis.</label><br>
+          <label><input type="radio" name="q9" value="e"> tachycardia.</label>
+      </div>
+
+      <!-- Question 10 -->
+      <div class="question">
+          <p>10) The coronary sulcus marks the external boundary between the <strong>[dropdown 1]</strong> and the <strong>[dropdown 2]</strong>.</p>
+          <label><input type="radio" name="q10" value="a"> auricles.</label><br>
+          <label><input type="radio" name="q10" value="b"> coronary arteries.</label><br>
+          <label><input type="radio" name="q10" value="c"> coronary sinus.</label><br>
+          <label><input type="radio" name="q10" value="d"> superior atria.</label><br>
+          <label><input type="radio" name="q10" value="e"> inferior ventricles.</label>
+      </div>
+
+      <!-- Question 11 -->
+      <div class="question">
+          <p>11) Pectinate muscles extend from the atrial internal wall into the pouch-like structures that increase the total filling capacity of the atrium. These structures are the.</p>
+          <label><input type="radio" name="q11" value="a"> ventricles.</label><br>
+          <label><input type="radio" name="q11" value="b"> coronary sulci.</label><br>
+          <label><input type="radio" name="q11" value="c"> fossa ovalis.</label><br>
+          <label><input type="radio" name="q11" value="d"> interatrial septa.</label><br>
+          <label><input type="radio" name="q11" value="e"> auricles.</label>
+      </div>
+
+      <!-- Question 12 -->
+      <div class="question">
+          <p>12) Identify the groove found on the surface of the heart that marks the boundary between the right and left ventricles.</p>
+          <label><input type="radio" name="q12" value="a"> Coronary sulcus.</label><br>
+          <label><input type="radio" name="q12" value="b"> Anterior interventricular sulcus.</label><br>
+          <label><input type="radio" name="q12" value="c"> Posterior interventricular sulcus.</label><br>
+          <label><input type="radio" name="q12" value="d"> Coronary sinus.</label><br>
+          <label><input type="radio" name="q12" value="e"> Anterior intraventricular sulcus.</label>
+      </div>
+
+      <!-- Question 13 -->
+      <div class="question">
+          <p>13) Identify the muscular ridges that are found on the anterior wall of the right atrium and extend into the auricles.</p>
+          <label><input type="radio" name="q13" value="a"> Pectinate muscles.</label><br>
+          <label><input type="radio" name="q13" value="b"> Trabeculae carneae.</label><br>
+          <label><input type="radio" name="q13" value="c"> Coronary sulci.</label><br>
+          <label><input type="radio" name="q13" value="d"> Papillary muscles.</label><br>
+          <label><input type="radio" name="q13" value="e"> Chordae tendinae.</label>
+      </div>
+
+      <!-- Question 14 -->
+      <div class="question">
+          <p>14) Through which structure does blood pass from the right atrium to the right ventricle?</p>
+          <label><input type="radio" name="q14" value="a"> Bicuspid valve.</label><br>
+          <label><input type="radio" name="q14" value="b"> Interventricular septum.</label><br>
+          <label><input type="radio" name="q14" value="c"> Tricuspid valve.</label><br>
+          <label><input type="radio" name="q14" value="d"> Mitral valve.</label><br>
+          <label><input type="radio" name="q14" value="e"> Ascending aorta.</label>
+      </div>
+
+      <!-- Question 15 -->
+      <div class="question">
+          <p>15) What type of tissue comprises the valves of the heart?</p>
+          <label><input type="radio" name="q15" value="a"> Dense connective tissue.</label><br>
+          <label><input type="radio" name="q15" value="b"> Areolar connective tissue.</label><br>
+          <label><input type="radio" name="q15" value="c"> Hyaline cartilage.</label><br>
+          <label><input type="radio" name="q15" value="d"> Cardiac muscle tissue.</label><br>
+          <label><input type="radio" name="q15" value="e"> Adipose tissue.</label>
+      </div>
+
+      <!-- Question 16 -->
+      <div class="question">
+          <p>16) Blood leaving the left ventricle passes through which of the following structures?</p>
+          <label><input type="radio" name="q16" value="a"> Right atrium.</label><br>
+          <label><input type="radio" name="q16" value="b"> Interventricular septum.</label><br>
+          <label><input type="radio" name="q16" value="c"> Bicuspid valve.</label><br>
+          <label><input type="radio" name="q16" value="d"> Aortic semilunar valve.</label><br>
+          <label><input type="radio" name="q16" value="e"> Pulmonary semilunar valve.</label>
+      </div>
+
+      <!-- Question 17 -->
+      <div class="question">
+          <p>17) Identify the structure found in a fetus that allows blood to flow directly from the pulmonary trunk into the aorta.</p>
+          <label><input type="radio" name="q17" value="a"> Fossa ovalis.</label><br>
+          <label><input type="radio" name="q17" value="b"> Foramen ovale.</label><br>
+          <label><input type="radio" name="q17" value="c"> Trabeculae carneae.</label><br>
+          <label><input type="radio" name="q17" value="d"> Descending aorta.</label><br>
+          <label><input type="radio" name="q17" value="e"> Ductus arteriosus.</label>
+      </div>
+
+      <!-- Question 18 -->
+      <div class="question">
+          <p>18) Explain the difference in myocardial thickness between the left and right ventricles.</p>
+          <label><input type="radio" name="q18" value="a"> The left ventricle is thicker because it pumps blood into systemic circulation.</label><br>
+          <label><input type="radio" name="q18" value="b"> The right ventricle is thicker because it pumps blood into the lungs.</label><br>
+          <label><input type="radio" name="q18" value="c"> The left ventricle is thicker because it has to generate higher pressure.</label><br>
+      </div>
+
+      <!-- Question 19 -->
+      <div class="question">
+          <p>19) Contraction of the ventricles of the heart leads to blood moving directly.</p>
+          <label><input type="radio" name="q19" value="a"> into arteries.</label><br>
+          <label><input type="radio" name="q19" value="b"> into capillaries.</label><br>
+          <label><input type="radio" name="q19" value="c"> into veins.</label><br>
+          <label><input type="radio" name="q19" value="d"> through atrioventricular valves.</label><br>
+          <label><input type="radio" name="q19" value="e"> through semilunar valves.</label>
+      </div>
+
+      <!-- Question 20 -->
+      <div class="question">
+          <p>20) Contraction of the atria of the heart leads to blood moving directly.</p>
+          <label><input type="radio" name="q20" value="a"> into auricles.</label><br>
+          <label><input type="radio" name="q20" value="b"> into arteries.</label><br>
+          <label><input type="radio" name="q20" value="c"> into veins.</label><br>
+          <label><input type="radio" name="q20" value="d"> through atrioventricular valves.</label><br>
+          <label><input type="radio" name="q20" value="e"> through semilunar valves.</label>
+      </div>
+        
+       <!-- Question 21 -->
+<div class="question">
+    <p>21) Which valve below prevents blood from flowing back into the right ventricle?</p>
+    <label><input type="radio" name="q21" value="a"> Tricuspid valve.</label><br>
+    <label><input type="radio" name="q21" value="b"> Bicuspid valve.</label><br>
+    <label><input type="radio" name="q21" value="c"> Pulmonary semilunar valve.</label><br>
+    <label><input type="radio" name="q21" value="d"> Aortic semilunar valve.</label><br>
+    <label><input type="radio" name="q21" value="e"> Mitral valve.</label>
+</div>
+
+<!-- Question 22 -->
+<div class="question">
+    <p>22) Explain how the heart pumps blood into two separate closed circuits that are arranged in series.</p>
+    <label><input type="radio" name="q22" value="a"> The pulmonary circuit only.</label><br>
+    <label><input type="radio" name="q22" value="b"> The systemic circuit only.</label><br>
+    <label><input type="radio" name="q22" value="c"> Both circuits simultaneously.</label><br>
+    <label><input type="radio" name="q22" value="d"> The heart fills with blood, pumps it to the lungs, and then to the body.</label><br>
+</div>
+
+<!-- Question 23 -->
+<div class="question">
+    <p>23) Which of the following chambers of the heart contains deoxygenated blood?</p>
+    <label><input type="radio" name="q23" value="a"> Left atrium and left ventricle.</label><br>
+    <label><input type="radio" name="q23" value="b"> Left atrium only.</label><br>
+    <label><input type="radio" name="q23" value="c"> Right atrium and right ventricle.</label><br>
+    <label><input type="radio" name="q23" value="d"> Right ventricle only.</label><br>
+    <label><input type="radio" name="q23" value="e"> Left atrium and right ventricle.</label>
+</div>
+
+<!-- Question 24 -->
+<div class="question">
+    <p>24) Which of the following blood vessels is used to distribute oxygenated blood to the myocardium?</p>
+    <label><input type="radio" name="q24" value="a"> Coronary artery.</label><br>
+    <label><input type="radio" name="q24" value="b"> Coronary vein.</label><br>
+    <label><input type="radio" name="q24" value="c"> Coronary sinus.</label><br>
+    <label><input type="radio" name="q24" value="d"> Vena cava.</label><br>
+    <label><input type="radio" name="q24" value="e"> Myocardial vein.</label>
+</div>
+
+<!-- Question 25 -->
+<div class="question">
+    <p>25) Cardiac muscle fibers are electrically connected to neighboring fibers by.</p>
+    <label><input type="radio" name="q25" value="a"> desmosomes.</label><br>
+    <label><input type="radio" name="q25" value="b"> tight junctions.</label><br>
+    <label><input type="radio" name="q25" value="c"> gap junctions.</label><br>
+    <label><input type="radio" name="q25" value="d"> interneurons.</label><br>
+    <label><input type="radio" name="q25" value="e"> chordae tendinae.</label>
+</div>
+
+<!-- Question 26 -->
+<div class="question">
+    <p>26) Which of the following types of muscle contains the largest number of mitochondria per cell?</p>
+    <label><input type="radio" name="q26" value="a"> Smooth muscle.</label><br>
+    <label><input type="radio" name="q26" value="b"> Skeletal muscle.</label><br>
+    <label><input type="radio" name="q26" value="c"> Cardiac muscle.</label><br>
+    <label><input type="radio" name="q26" value="d"> All the muscle types contain approximately the same number.</label><br>
+    <label><input type="radio" name="q26" value="e"> Mitochondria are not found in muscle cells.</label>
+</div>
+
+<!-- Question 27 -->
+<div class="question">
+    <p>27) Briefly describe why cardiac tissue cannot repair itself after damage?</p>
+    <label><input type="radio" name="q27" value="a"> It has abundant stem cells.</label><br>
+    <label><input type="radio" name="q27" value="b"> It lacks the ability to mitotically divide.</label><br>
+    <label><input type="radio" name="q27" value="c"> It lacks stem cells and mature cardiac muscle fibers cannot go through mitosis.</label><br>
+</div>
+
+<!-- Question 28 -->
+<div class="question">
+    <p>28) Describe the recent research that showed significant replacement of heart cells is possible as well as the presence of stem cells in heart muscle tissue.</p>
+    <label><input type="radio" name="q28" value="a"> Stem cells cannot migrate to the heart.</label><br>
+    <label><input type="radio" name="q28" value="b"> Research showed stem cells can differentiate into cardiac muscle cells.</label><br>
+    <label><input type="radio" name="q28" value="c"> Heart cells regenerate rapidly.</label><br>
+</div>
+
+<!-- Question 29 -->
+<div class="question">
+    <p>29) Which network of specialized cardiac muscle fibers provides a path for each cycle of cardiac excitation to progress through the heart?</p>
+    <label><input type="radio" name="q29" value="a"> Systemic circuit.</label><br>
+    <label><input type="radio" name="q29" value="b"> Intercalated discs.</label><br>
+    <label><input type="radio" name="q29" value="c"> Cardiovascular center.</label><br>
+    <label><input type="radio" name="q29" value="d"> Cardiac conduction system.</label><br>
+    <label><input type="radio" name="q29" value="e"> Pulmonary circuit.</label>
+</div>
+
+<!-- Question 30 -->
+<div class="question">
+    <p>30) Which of the following correctly lists the sequence of structures that a cardiac action potential follows in order to excite normal contraction of the heart?</p>
+    <label><input type="radio" name="q30" value="a"> Bundle of His, Subendocardial conducting network, Atrioventricular (AV) node.</label><br>
+    <label><input type="radio" name="q30" value="b"> Sinoatrial (SA) node, Subendocardial conducting network, AV node, Bundle of His.</label><br>
+    <label><input type="radio" name="q30" value="c"> Subendocardial conducting network, AV node, SA node, Bundle of His.</label><br>
+    <label><input type="radio" name="q30" value="d"> SA node, AV node, Bundle of His, Subendocardial conducting network.</label><br>
+    <label><input type="radio" name="q30" value="e"> Bundle of His, SA node, AV node, Subendocardial conducting network.</label>
+</div>
+
+<!-- Question 31 -->
+<div class="question">
+    <p>31) In comparison to skeletal muscle fibers, the contractile fibers of the heart are depolarized for</p>
+    <label><input type="radio" name="q31" value="a"> a longer period of time.</label><br>
+    <label><input type="radio" name="q31" value="b"> a shorter period of time.</label><br>
+    <label><input type="radio" name="q31" value="c"> a variable period of time.</label><br>
+    <label><input type="radio" name="q31" value="d"> the same period of time.</label><br>
+</div>
+
+<!-- Question 32 -->
+<div class="question">
+    <p>32) The volume of blood ejected from the left ventricle into the aorta each minute is called the.</p>
+    <label><input type="radio" name="q32" value="a"> cardiac output.</label><br>
+    <label><input type="radio" name="q32" value="b"> cardiac input.</label><br>
+    <label><input type="radio" name="q32" value="c"> stroke volume.</label><br>
+    <label><input type="radio" name="q32" value="d"> heart rate.</label><br>
+    <label><input type="radio" name="q32" value="e"> pulse pressure.</label>
+</div>
+
+<!-- Question 33 -->
+<div class="question">
+    <p>33) Which term refers to the period of time during a cardiac cycle when contraction of a chamber occurs and pressure within the chamber rises?</p>
+    <label><input type="radio" name="q33" value="a"> Filling.</label><br>
+    <label><input type="radio" name="q33" value="b"> Systole.</label><br>
+    <label><input type="radio" name="q33" value="c"> Repolarization.</label><br>
+    <label><input type="radio" name="q33" value="d"> Diastole.</label><br>
+    <label><input type="radio" name="q33" value="e"> Fibrillation.</label>
+</div>
+
+<!-- Question 34 -->
+<div class="question">
+    <p>34) The period of atrial systole lasts about while the period of ventricular systole lasts approximately.</p>
+    <label><input type="radio" name="q34" value="a"> 0.4 second.</label><br>
+    <label><input type="radio" name="q34" value="b"> 0.3 second.</label><br>
+    <label><input type="radio" name="q34" value="c"> 0.1 second.</label><br>
+    <label><input type="radio" name="q34" value="d"> 0.6 second.</label><br>
+    <label><input type="radio" name="q34" value="e"> 0.4 second.</label><br>
+</div>
+
+<!-- Question 35 -->
+<div class="question">
+    <p>35) During which of the following periods does the largest volume of blood enter the arteries?</p>
+    <label><input type="radio" name="q35" value="a"> Atrial diastole.</label><br>
+    <label><input type="radio" name="q35" value="b"> Ventricular diastole.</label><br>
+    <label><input type="radio" name="q35" value="c"> Atrial systole.</label><br>
+    <label><input type="radio" name="q35" value="d"> Ventricular systole.</label><br>
+    <label><input type="radio" name="q35" value="e"> The volume is about the same during each period.</label>
+</div>
+
+<!-- Question 36 -->
+<div class="question">
+    <p>36) The second heart sound (dupp) closely follows which of the events listed below?</p>
+    <label><input type="radio" name="q36" value="a"> Valvular stenosis.</label><br>
+    <label><input type="radio" name="q36" value="b"> Semilunar valves opening.</label><br>
+    <label><input type="radio" name="q36" value="c"> Atrioventricular valves closing.</label><br>
+    <label><input type="radio" name="q36" value="d"> Semilunar valves closing.</label><br>
+    <label><input type="radio" name="q36" value="e"> Atrioventricular valves opening.</label>
+</div>
+
+<!-- Question 37 -->
+<div class="question">
+    <p>37) Which of the following correctly describes ventricular ejection? Select all that apply.</p>
+    <label><input type="checkbox" name="q37" value="a"> Occurs when semilunar valves are open.</label><br>
+    <label><input type="checkbox" name="q37" value="b"> Occurs when semilunar valves are closed.</label><br>
+    <label><input type="checkbox" name="q37" value="c"> Lasts for about 0.25 second.</label><br>
+    <label><input type="checkbox" name="q37" value="d"> Lasts for about 0.1 second.</label><br>
+    <label><input type="checkbox" name="q37" value="e"> Occurs when atrioventricular valves are open.</label><br>
+    <label><input type="checkbox" name="q37" value="f"> Occurs when atrioventricular valves are closed.</label><br>
+</div>
+
+<!-- Question 38 -->
+<div class="question">
+    <p>38) Which structure in the heart initiates action potentials that stimulate contraction of the heart at a constant rate of about 100 beats per minute?</p>
+    <label><input type="radio" name="q38" value="a"> Cardiac accelerator nerves.</label><br>
+    <label><input type="radio" name="q38" value="b"> Atrioventricular node.</label><br>
+    <label><input type="radio" name="q38" value="c"> Cardiovascular center.</label><br>
+    <label><input type="radio" name="q38" value="d"> Sinoatrial node.</label><br>
+    <label><input type="radio" name="q38" value="e"> Bundle of His.</label>
+</div>
+
+<!-- Question 39 -->
+<div class="question">
+    <p>39) Stimulation of which nerve reduces heart rate?</p>
+    <label><input type="radio" name="q39" value="a"> Cardiac accelerator nerve.</label><br>
+    <label><input type="radio" name="q39" value="b"> Hypoglossal nerve.</label><br>
+    <label><input type="radio" name="q39" value="c"> Spinal accessory.</label><br>
+    <label><input type="radio" name="q39" value="d"> Vagus nerve.</label><br>
+    <label><input type="radio" name="q39" value="e"> Phrenic nerve.</label>
+</div>
+
+<!-- Question 40 -->
+<div class="question">
+    <p>40) Which of the following would lead to a decreased heart rate?</p>
+    <label><input type="radio" name="q40" value="a"> Increased norepinephrine release.</label><br>
+    <label><input type="radio" name="q40" value="b"> Increased thyroid hormone release.</label><br>
+    <label><input type="radio" name="q40" value="c"> Increased potassium levels in plasma.</label><br>
+    <label><input type="radio" name="q40" value="d"> Increased calcium levels in plasma.</label><br>
+    <label><input type="radio" name="q40" value="e"> Increased sympathetic stimulation.</label>
+</div>
+
+<!-- Question 41 -->
+<div class="question">
+    <p>41) What is the relationship between strenuous exercise (a heart rate exceeding 160 beats/minute) and the Frank-Starling law of the heart?</p>
+    <label><input type="radio" name="q41" value="a"> Strenuous exercise increases preload.</label><br>
+    <label><input type="radio" name="q41" value="b"> Strenuous exercise decreases stroke volume due to reduced filling time.</label><br>
+    <label><input type="radio" name="q41" value="c"> Strenuous exercise has no effect on heart rate.</label><br>
+</div>
+
+<!-- Question 42 -->
+<div class="question">
+    <p>42) An increase in the carbon dioxide levels in the blood leads to a change in the chemical composition of the blood. This input would be received by which part of the brain that regulates heart rate?</p>
+    <label><input type="radio" name="q42" value="a"> Midbrain.</label><br>
+    <label><input type="radio" name="q42" value="b"> Cerebrum.</label><br>
+    <label><input type="radio" name="q42" value="c"> Medulla oblongata.</label><br>
+    <label><input type="radio" name="q42" value="d"> Cerebellum.</label><br>
+    <label><input type="radio" name="q42" value="e"> Thalamus.</label>
+</div>
+
+<!-- Question 43 -->
+<div class="question">
+    <p>43) Which wave in an electrocardiogram represents repolarization of the ventricles?</p>
+    <label><input type="radio" name="q43" value="a"> R wave.</label><br>
+    <label><input type="radio" name="q43" value="b"> T wave.</label><br>
+    <label><input type="radio" name="q43" value="c"> S wave.</label><br>
+    <label><input type="radio" name="q43" value="d"> P wave.</label><br>
+    <label><input type="radio" name="q43" value="e"> Q wave.</label>
+</div>
+
+<!-- Question 44 -->
+<div class="question">
+    <p>44) Which of the following selections lists conditions that would lead to increased stroke volume?</p>
+    <label><input type="radio" name="q44" value="a"> Increased preload, increased afterload, increased contractility.</label><br>
+    <label><input type="radio" name="q44" value="b"> Decreased preload, decreased afterload, decreased contractility.</label><br>
+    <label><input type="radio" name="q44" value="c"> Increased preload, decreased afterload, increased contractility.</label><br>
+    <label><input type="radio" name="q44" value="d"> Decreased preload, increased afterload, increased contractility.</label><br>
+    <label><input type="radio" name="q44" value="e"> Increased preload, increased afterload, decreased contractility.</label>
+</div>
+
+<!-- Question 45 -->
+<div class="question">
+    <p>45) Which of the following electrocardiogram (ECG) waves represents atrial depolarization?</p>
+    <label><input type="radio" name="q45" value="a"> R wave.</label><br>
+    <label><input type="radio" name="q45" value="b"> T wave.</label><br>
+    <label><input type="radio" name="q45" value="c"> S wave.</label><br>
+    <label><input type="radio" name="q45" value="d"> P wave.</label><br>
+    <label><input type="radio" name="q45" value="e"> Q wave.</label>
+</div>
+
+<!-- Question 46 -->
+<div class="question">
+    <p>46) Prior to physical activity, the heart rate may climb. This anticipatory increase is caused by nerve impulses traveling to the cardiovascular center of the medulla oblongata that originate in the</p>
+    <label><input type="radio" name="q46" value="a"> cerebral cortex.</label><br>
+    <label><input type="radio" name="q46" value="b"> hypothalamus.</label><br>
+    <label><input type="radio" name="q46" value="c"> baroreceptors.</label><br>
+    <label><input type="radio" name="q46" value="d"> limbic system.</label><br>
+    <label><input type="radio" name="q46" value="e"> proprioceptors.</label>
+</div>
+
+<!-- Question 47 -->
+<div class="question">
+    <p>47) The formula for calculating cardiac output (CO) is</p>
+    <label><input type="radio" name="q47" value="a"> heart rate multiplied by cardiac reserve.</label><br>
+    <label><input type="radio" name="q47" value="b"> heart rate multiplied by end diastolic volume.</label><br>
+    <label><input type="radio" name="q47" value="c"> heart rate multiplied by stroke volume.</label><br>
+    <label><input type="radio" name="q47" value="d"> end diastolic volume multiplied by cardiac reserve.</label><br>
+    <label><input type="radio" name="q47" value="e"> venous return multiplied by stroke volume.</label>
+</div>
+
+<!-- Question 48 -->
+<div class="question">
+    <p>48) Positive inotropic agents often promote inflow of which cation to increase contractility of the heart?</p>
+    <label><input type="radio" name="q48" value="a"> Sodium.</label><br>
+    <label><input type="radio" name="q48" value="b"> Potassium.</label><br>
+    <label><input type="radio" name="q48" value="c"> Magnesium.</label><br>
+    <label><input type="radio" name="q48" value="d"> Phosphorus.</label><br>
+    <label><input type="radio" name="q48" value="e"> Calcium.</label>
+</div>
+
+<!-- Question 49 -->
+<div class="question">
+    <p>49) In the diagram, where is the left auricle of the left atrium?</p>
+     <img src="screenshot49.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q49" value="a"> C.</label><br>
+    <label><input type="radio" name="q49" value="b"> F.</label><br>
+    <label><input type="radio" name="q49" value="c"> G.</label><br>
+    <label><input type="radio" name="q49" value="d"> H.</label><br>
+    <label><input type="radio" name="q49" value="e"> I.</label>
+</div>
+
+<!-- Question 50 -->
+<div class="question">
+    <p>50) In the diagram, which labeled structure prevents blood flow from the right ventricle back into the right atrium?</p>
+     <img src="screenshot50.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q50" value="a"> A.</label><br>
+    <label><input type="radio" name="q50" value="b"> B.</label><br>
+    <label><input type="radio" name="q50" value="c"> C.</label><br>
+    <label><input type="radio" name="q50" value="d"> D.</label><br>
+    <label><input type="radio" name="q50" value="e"> E.</label>
+</div>
+        
+<!-- Question 50 -->
+<div class="question">
+    <p>50) In the diagram, which labeled structure prevents blood flow from the right ventricle back into the right atrium?</p>
+     <img src="screenshot50.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q50" value="a"> A.</label><br>
+    <label><input type="radio" name="q50" value="b"> B.</label><br>
+    <label><input type="radio" name="q50" value="c"> C.</label><br>
+    <label><input type="radio" name="q50" value="d"> D.</label><br>
+    <label><input type="radio" name="q50" value="e"> E.</label>
+</div>
+
+<!-- Question 51 -->
+<div class="question">
+    <p>51) In the diagram, which labeled structure is the pulmonary semilunar valve?</p>
+     <img src="screenshot51.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q51" value="a"> B.</label><br>
+    <label><input type="radio" name="q51" value="b"> D.</label><br>
+    <label><input type="radio" name="q51" value="c"> E.</label><br>
+    <label><input type="radio" name="q51" value="d"> A.</label><br>
+    <label><input type="radio" name="q51" value="e"> C.</label>
+</div>
+
+<!-- Question 52 -->
+<div class="question">
+    <p>52) In the diagram, which labeled structures are atrioventricular valves?</p>
+     <img src="screenshot52.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q52" value="a"> A and B.</label><br>
+    <label><input type="radio" name="q52" value="b"> C and D.</label><br>
+    <label><input type="radio" name="q52" value="c"> A and C.</label><br>
+    <label><input type="radio" name="q52" value="d"> B and D.</label><br>
+    <label><input type="radio" name="q52" value="e"> A, B, C and D.</label>
+</div>
+
+<!-- Question 53 -->
+<div class="question">
+    <p>53) Describe what is happening during the phase of the cardiac action potential labeled 2 in the diagram.</p>
+     <img src="screenshot53.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q53" value="a"> Voltage-gated sodium channels are closing.</label><br>
+    <label><input type="radio" name="q53" value="b"> Voltage-gated potassium channels are opening.</label><br>
+    <label><input type="radio" name="q53" value="c"> Voltage-gated calcium channels are open.</label><br>
+</div>
+
+<!-- Question 54 -->
+<div class="question">
+    <p>54) Briefly describe what is happening at the stage of the ECG labeled 5 in the diagram.</p>
+     <img src="screenshot54.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q54" value="a"> The atria are depolarizing.</label><br>
+    <label><input type="radio" name="q54" value="b"> The ventricles are repolarizing.</label><br>
+    <label><input type="radio" name="q54" value="c"> The heart is in systole.</label><br>
+</div>
+
+<!-- Question 55 -->
+<div class="question">
+    <p>55) Which phases of a heartbeat shown in the diagram involve depolarization of any of the heart's four chambers?</p>
+     <img src="screenshot55.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q55" value="a"> 1 and 3.</label><br>
+    <label><input type="radio" name="q55" value="b"> 2 and 4.</label><br>
+    <label><input type="radio" name="q55" value="c"> 4 and 6.</label><br>
+    <label><input type="radio" name="q55" value="d"> 1, 3, and 5.</label><br>
+    <label><input type="radio" name="q55" value="e"> 1 and 5.</label>
+</div>
+
+<!-- Question 56 -->
+<div class="question">
+    <p>56) Which of the labeled diagrams shows coarctation of the aorta?</p>
+     <img src="screenshot56.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q56" value="a"> A.</label><br>
+    <label><input type="radio" name="q56" value="b"> B.</label><br>
+    <label><input type="radio" name="q56" value="c"> C.</label><br>
+    <label><input type="radio" name="q56" value="d"> D.</label><br>
+    <label><input type="radio" name="q56" value="e"> E.</label>
+</div>
+
+<!-- Question 57 -->
+<div class="question">
+    <p>57) Which of the labeled diagrams shows an atrial septal defect?</p>
+     <img src="screenshot57.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q57" value="a"> A.</label><br>
+    <label><input type="radio" name="q57" value="b"> B.</label><br>
+    <label><input type="radio" name="q57" value="c"> C.</label><br>
+    <label><input type="radio" name="q57" value="d"> D.</label><br>
+    <label><input type="radio" name="q57" value="e"> E.</label>
+</div>
+
+<!-- Question 58 -->
+<div class="question">
+    <p>58) Which of the labeled steps in the diagram represents formation of the primitive heart tube?</p>
+     <img src="screenshot58.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q58" value="a"> A.</label><br>
+    <label><input type="radio" name="q58" value="b"> B.</label><br>
+    <label><input type="radio" name="q58" value="c"> C.</label><br>
+    <label><input type="radio" name="q58" value="d"> D.</label><br>
+    <label><input type="radio" name="q58" value="e"> E.</label>
+</div>
+
+<!-- Question 59 -->
+<div class="question">
+    <p>59) Which of the labeled steps in the diagram represents formation of the endocardial tubes?</p>
+     <img src="screenshot59.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q59" value="a"> A.</label><br>
+    <label><input type="radio" name="q59" value="b"> B.</label><br>
+    <label><input type="radio" name="q59" value="c"> C.</label><br>
+    <label><input type="radio" name="q59" value="d"> D.</label><br>
+    <label><input type="radio" name="q59" value="e"> E.</label>
+</div>
+
+<!-- Question 60 -->
+<div class="question">
+    <p>60) Which week of fetal development might be considered the stage of development of the heart with the chambers as they will be oriented for the rest of the individual's life?</p>
+    <label><input type="radio" name="q60" value="a"> Fourth.</label><br>
+    <label><input type="radio" name="q60" value="b"> Fifth.</label><br>
+    <label><input type="radio" name="q60" value="c"> Sixth.</label><br>
+    <label><input type="radio" name="q60" value="d"> Seventh.</label><br>
+    <label><input type="radio" name="q60" value="e"> Eighth.</label>
+</div>
+
+<!-- Question 61 -->
+<div class="question">
+    <p>61) Which labeled structure shown in the diagram is a remnant of fetal circulation that is NOT directly involved in adult circulation?</p>
+     <img src="screenshot61.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q61" value="a"> A.</label><br>
+    <label><input type="radio" name="q61" value="b"> B.</label><br>
+    <label><input type="radio" name="q61" value="c"> H.</label><br>
+    <label><input type="radio" name="q61" value="d"> D.</label><br>
+    <label><input type="radio" name="q61" value="e"> E.</label>
+</div>
+
+<!-- Question 62 -->
+<div class="question">
+    <p>62) Which labeled blood vessel in the diagram is an artery carrying deoxygenated blood?</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q62" value="a"> A.</label><br>
+    <label><input type="radio" name="q62" value="b"> B.</label><br>
+    <label><input type="radio" name="q62" value="c"> C.</label><br>
+    <label><input type="radio" name="q62" value="d"> E.</label><br>
+    <label><input type="radio" name="q62" value="e"> F.</label>
+</div>
+
+<!-- Question 63 -->
+<div class="question">
+    <p>63) Which labeled blood vessel shown in the diagram is the left common carotid artery?</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q63" value="a"> A.</label><br>
+    <label><input type="radio" name="q63" value="b"> B.</label><br>
+    <label><input type="radio" name="q63" value="c"> E.</label><br>
+    <label><input type="radio" name="q63" value="d"> F.</label><br>
+    <label><input type="radio" name="q63" value="e"> H.</label>
+</div>
+
+<!-- Question 64 -->
+<div class="question">
+    <p>64) Which labeled structure shown in the diagram is a pouch-like extension that serves to slightly increase the capacity of an atrium?</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q64" value="a"> F.</label><br>
+    <label><input type="radio" name="q64" value="b"> E.</label><br>
+    <label><input type="radio" name="q64" value="c"> G.</label><br>
+    <label><input type="radio" name="q64" value="d"> I.</label><br>
+    <label><input type="radio" name="q64" value="e"> D.</label>
+</div>
+
+<!-- Question 65 -->
+<div class="question">
+    <p>65) Which labeled structure in the figure is the ligamentum arteriosum?</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q65" value="a"> A.</label><br>
+    <label><input type="radio" name="q65" value="b"> B.</label><br>
+    <label><input type="radio" name="q65" value="c"> C.</label><br>
+    <label><input type="radio" name="q65" value="d"> D.</label><br>
+    <label><input type="radio" name="q65" value="e"> G.</label>
+</div>
+
+<!-- Question 66 -->
+<div class="question">
+    <p>66) Explain the difference in the functions of low-density lipoproteins and high-density lipoproteins and explain why one is called "good" cholesterol and the other is called "bad" cholesterol.</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q66" value="a"> Low-density lipoproteins transport cholesterol to the liver.</label><br>
+    <label><input type="radio" name="q66" value="b"> High-density lipoproteins transport cholesterol to body cells.</label><br>
+    <label><input type="radio" name="q66" value="c"> Low-density lipoproteins transport cholesterol to body cells, while high-density lipoproteins transport it back to the liver.</label><br>
+</div>
+
+<!-- Question 67 -->
+<div class="question">
+    <p>67) Which structure in the figure is labeled B?</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q67" value="a"> Left common carotid artery.</label><br>
+    <label><input type="radio" name="q67" value="b"> Left subclavian artery.</label><br>
+    <label><input type="radio" name="q67" value="c"> Left pulmonary vein.</label><br>
+    <label><input type="radio" name="q67" value="d"> Superior vena cava.</label><br>
+    <label><input type="radio" name="q67" value="e"> Brachiocephalic trunk.</label>
+</div>
+
+<!-- Question 68 -->
+<div class="question">
+    <p>68) Which structure in the figure is labeled A?</p>
+     <img src="screenshot61to68.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q68" value="a"> Left common carotid artery.</label><br>
+    <label><input type="radio" name="q68" value="b"> Left subclavian artery.</label><br>
+    <label><input type="radio" name="q68" value="c"> Left pulmonary vein.</label><br>
+    <label><input type="radio" name="q68" value="d"> Pulmonary trunk.</label><br>
+    <label><input type="radio" name="q68" value="e"> Superior vena cava.</label>
+</div>
+
+<!-- Question 69 -->
+<div class="question">
+    <p>69) Which labeled structure in the figure acts as the natural pacemaker of the heart?</p>
+     <img src="screenshot69707374.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div>   
+    <label><input type="radio" name="q69" value="a"> A.</label><br>
+    <label><input type="radio" name="q69" value="b"> B.</label><br>
+    <label><input type="radio" name="q69" value="c"> C.</label><br>
+    <label><input type="radio" name="q69" value="d"> D.</label><br>
+    <label><input type="radio" name="q69" value="e"> E.</label>
+</div>
+
+<!-- Question 70 -->
+<div class="question">
+    <p>70) Which labeled structure in the figure is the AV node?</p>
+     <img src="screenshot69707374.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div> 
+    <label><input type="radio" name="q70" value="a"> A.</label><br>
+    <label><input type="radio" name="q70" value="b"> B.</label><br>
+    <label><input type="radio" name="q70" value="c"> C.</label><br>
+    <label><input type="radio" name="q70" value="d"> D.</label><br>
+    <label><input type="radio" name="q70" value="e"> E.</label>
+</div>
+
+<!-- Question 71 -->
+<div class="question">
+    <p>71) Two hormones that increase heart rate are [dropdown 1] and [dropdown 2].</p>
+    <label><input type="radio" name="q71" value="a"> Adrenocorticotropic hormone.</label><br>
+    <label><input type="radio" name="q71" value="b"> Growth hormone.</label><br>
+    <label><input type="radio" name="q71" value="c"> Testosterone.</label><br>
+    <label><input type="radio" name="q71" value="d"> Thyroid hormone.</label><br>
+    <label><input type="radio" name="q71" value="e"> Epinephrine.</label>
+</div>
+
+<!-- Question 72 -->
+<div class="question">
+    <p>72) Athletes tend to have higher cardiac reserves because</p>
+    <label><input type="radio" name="q72" value="a"> they produce less epinephrine.</label><br>
+    <label><input type="radio" name="q72" value="b"> they eat more protein and vitamins.</label><br>
+    <label><input type="radio" name="q72" value="c"> their hearts operate more efficiently due to training.</label><br>
+    <label><input type="radio" name="q72" value="d"> they take in less oxygen than average individuals.</label><br>
+    <label><input type="radio" name="q72" value="e"> they put out more carbon dioxide than average individuals.</label>
+</div>
+
+<!-- Question 73 -->
+<div class="question">
+    <p>73) Which labeled structure in the figure represents the only pathway for conducting action potentials from the atria to the ventricles?</p>
+     <img src="screenshot69707374.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div> 
+    <label><input type="radio" name="q73" value="a"> A.</label><br>
+    <label><input type="radio" name="q73" value="b"> B.</label><br>
+    <label><input type="radio" name="q73" value="c"> C.</label><br>
+    <label><input type="radio" name="q73" value="d"> D.</label><br>
+    <label><input type="radio" name="q73" value="e"> E.</label>
+</div>
+
+<!-- Question 74 -->
+<div class="question">
+    <p>74) Which labeled structure in the figure carries the cardiac action potential directly into the contractile fibers of the ventricular myocardium?</p>
+     <img src="screenshot69707374.png" alt="Diagram of hormone functions" width="400"> 
+          <div style="clear: both;"></div> 
+    <label><input type="radio" name="q74" value="a"> A.</label><br>
+    <label><input type="radio" name="q74" value="b"> B.</label><br>
+    <label><input type="radio" name="q74" value="c"> C.</label><br>
+    <label><input type="radio" name="q74" value="d"> D.</label><br>
+    <label><input type="radio" name="q74" value="e"> E.</label>
+</div>
+
+<!-- Question 75 -->
+<div class="question">
+    <p>75) Discuss the common nutrient sources used by cardiac muscle to produce ATP in a resting individual.</p>
+    <label><input type="radio" name="q75" value="a"> Carbohydrates.</label><br>
+    <label><input type="radio" name="q75" value="b"> Proteins.</label><br>
+    <label><input type="radio" name="q75" value="c"> Fatty acids and glucose.</label><br>
+</div>
+
+<!-- Question 76 -->
+<div class="question">
+    <p>76) Define arrhythmia and discuss different categories of arrhythmias.</p>
+    <label><input type="radio" name="q76" value="a"> A heart rate above 100 bpm.</label><br>
+    <label><input type="radio" name="q76" value="b"> An abnormal rhythm due to a defect in the conduction system.</label><br>
+    <label><input type="radio" name="q76" value="c"> Only tachycardia.</label><br>
+</div>
+
+<!-- Question 77 -->
+<div class="question">
+    <p>77) Cardiac output is the volume of blood ejected from the [dropdown 1] ventricle into the [dropdown 2] each minute.</p>
+    <label><input type="radio" name="q77" value="a"> Left.</label><br>
+    <label><input type="radio" name="q77" value="b"> Right.</label><br>
+    <label><input type="radio" name="q77" value="c"> Left or right.</label><br>
+    <label><input type="radio" name="q77" value="d"> Both left and right.</label><br>
+</div>
+
+<!-- Question 78 -->
+<div class="question">
+    <p>78) The difference between a person's maximum cardiac output and resting cardiac output is called the</p>
+    <label><input type="radio" name="q78" value="a"> Stroke volume.</label><br>
+    <label><input type="radio" name="q78" value="b"> Peripheral resistance.</label><br>
+    <label><input type="radio" name="q78" value="c"> Afterload.</label><br>
+    <label><input type="radio" name="q78" value="d"> Cardiac reserve.</label><br>
+    <label><input type="radio" name="q78" value="e"> Venous return.</label>
+</div>
+
+<!-- Question 79 -->
+<div class="question">
+    <p>79) What is the function of the foramen ovale during fetal life?</p>
+    <label><input type="radio" name="q79" value="a"> Allowing blood to flow directly from the right atrium into the left atrium.</label><br>
+    <label><input type="radio" name="q79" value="b"> Allowing blood to flow directly from the right ventricle into the left ventricle.</label><br>
+    <label><input type="radio" name="q79" value="c"> Serves as a valve in the vena cava.</label><br>
+    <label><input type="radio" name="q79" value="d"> Prevents back flow of blood from aorta into the left ventricle.</label><br>
+    <label><input type="radio" name="q79" value="e"> Prevents back flow of blood from pulmonary trunk into the right ventricle.</label>
+</div>
+
+<!-- Question 80 -->
+<div class="question">
+    <p>80) Isovolumetric contraction is the phase of the cardiac cycle in which</p>
+    <label><input type="radio" name="q80" value="a"> The semilunar valves are open.</label><br>
+    <label><input type="radio" name="q80" value="b"> Ventricular repolarization occurs.</label><br>
+    <label><input type="radio" name="q80" value="c"> Atrial depolarization occurs.</label><br>
+    <label><input type="radio" name="q80" value="d"> Oxygenated blood leaves the heart.</label><br>
+    <label><input type="radio" name="q80" value="e"> Ventricular pressure increases and ventricular volume remains the same.</label>
+</div>
+
+<!-- Question 81 -->
+<div class="question">
+    <p>81) Which of the following chambers of the heart is surrounded by the thickest layer of myocardium?</p>
+    <label><input type="radio" name="q81" value="a"> Right atrium.</label><br>
+    <label><input type="radio" name="q81" value="b"> Left atrium.</label><br>
+    <label><input type="radio" name="q81" value="c"> Right ventricle.</label><br>
+    <label><input type="radio" name="q81" value="d"> Left ventricle.</label><br>
+    <label><input type="radio" name="q81" value="e"> Right auricle.</label>
+</div>
+
+<!-- Question 82 -->
+<div class="question">
+    <p>82) Heart murmurs are often heard in individuals with abnormalities in the <strong>[dropdown 1]</strong> of the heart.</p>
+    <label><input type="radio" name="q82" value="a"> AV node.</label><br>
+    <label><input type="radio" name="q82" value="b"> Endocardium.</label><br>
+    <label><input type="radio" name="q82" value="c"> Myocardium.</label><br>
+    <label><input type="radio" name="q82" value="d"> SA node.</label><br>
+    <label><input type="radio" name="q82" value="e"> Valves.</label><br>
+</div>
+
+<!-- Question 83 -->
+<div class="question">
+    <p>83) In comparison to a sedentary individual, a well-trained athlete will usually have all the following characteristics EXCEPT:</p>
+    <label><input type="radio" name="q83" value="a"> A higher cardiac reserve.</label><br>
+    <label><input type="radio" name="q83" value="b"> A higher resting cardiac output.</label><br>
+    <label><input type="radio" name="q83" value="c"> A higher stroke volume.</label><br>
+    <label><input type="radio" name="q83" value="d"> Hypertrophy of the heart.</label><br>
+    <label><input type="radio" name="q83" value="e"> Resting bradycardia.</label><br>
+</div>
+
+<!-- Question 84 -->
+<div class="question">
+    <p>84) During heart transplants, the <strong>[dropdown 1]</strong> nerves are severed resulting in a faster resting heart rate (approximately 100 beats per minute) after the transplant.</p>
+    <label><input type="radio" name="q84" value="a"> Cardiac accelerator.</label><br>
+    <label><input type="radio" name="q84" value="b"> Cervical spinal.</label><br>
+    <label><input type="radio" name="q84" value="c"> Glossopharyngeal.</label><br>
+    <label><input type="radio" name="q84" value="d"> Phrenic.</label><br>
+    <label><input type="radio" name="q84" value="e"> Vagus.</label><br>
+</div>
+
+<!-- Question 85 -->
+<div class="question">
+    <p>85) Which of the following is a corrective cardiac procedure in which a large piece of a patient's own latissimus dorsi muscle is wrapped around the heart and stimulated by an implanted pacemaker to assist the pumping action of a damaged heart?</p>
+    <label><input type="radio" name="q85" value="a"> Cardioversion.</label><br>
+    <label><input type="radio" name="q85" value="b"> Cardiogenic transplant.</label><br>
+    <label><input type="radio" name="q85" value="c"> Cardiomyopathy.</label><br>
+    <label><input type="radio" name="q85" value="d"> Cardiomegaly.</label><br>
+    <label><input type="radio" name="q85" value="e"> Cardiomyoplasty.</label><br>
+</div>
+        <!-- Add more questions as needed -->
+
+       <input type="submit" value="Submit Test">
+    </form>
+
+    <div class="result" id="result"></div>
+
+    <script>
+        document.getElementById('quizForm').onsubmit = function(event) {
+            event.preventDefault();  // Prevent form submission
+            
+            let score = 0;
+            let correctAnswers = {
+                q1: "d",
+                q2: "a",
+                q3: "b",
+                q4: "c",
+                q5: "d",
+                q6: "a",
+                q7: "c",
+                q8: "c",
+                q9: "d",
+                q10_1: "superior atria",
+                q10_2: "inferior ventricles",
+                q11: "e",
+                q12: "b",
+                q13: "a",
+                q14: "c",
+                q15: "a",
+                q16: "d",
+                q17: "e",
+                q18: "The left ventricle muscular wall is thicker than the right ventricle because it has to generate higher pressure to overcome the greater resistance of the longer systemic circulation route versus the shorter pulmonary circulation route.",
+                q19: "e",
+                q20: "d",
+                q21: "c",
+                q22: "The two circuits are the pulmonary and systemic circuits. Venous blood from the systemic circulation enters the right atrium...",
+                q23: "c",
+                q24: "a",
+                q25: "c",
+                q26: "c",
+                q27: "Cardiac muscle lacks stem cells and mature cardiac muscle fibers cannot go through mitosis.",
+                q28: "A study of male heart transplant patients...",
+                q29: "d",
+                q30: "d",
+                q31: "a longer",
+                q32: "a",
+                q33: "b",
+                q34_1: "0.1 second",
+                q34_2: "0.3 second",
+                q35: "d",
+                q36: "d",
+                q37: "a",
+                q38: "d",
+                q39: "d",
+                q40: "c",
+                q41: "The Frank-Starling law of the heart states that the more the heart fills with blood during diastole...",
+                q42: "c",
+                q43: "b",
+                q44: "c",
+                q45: "d",
+                q46: "d",
+                q47: "c",
+                q48: "e",
+                q49: "c",
+                q50: "b",
+                q51: "d",
+                q52: "d",
+                q53: "Phase 2 is the plateau phase which occurs due to opening of voltage-gated slow calcium channels...",
+                q54: "The contractile fibers of the ventricles are repolarizing, which generates the T wave in the ECG.",
+                q55: "a",
+                q56: "a",
+                q57: "c",
+                q58: "c",
+                q59: "b",
+                q60: "a",
+                q61: "d",
+                q62: "d",
+                q63: "a",
+                q64: "c",
+                q65: "d",
+                q66: "Low-density lipoproteins (LDL) transport cholesterol from the liver to body cells...",
+                q67: "b",
+                q68: "a",
+                q69: "a",
+                q70: "b",
+                q71_1: "thyroid hormone",
+                q71_2: "epinephrine",
+                q72: "c",
+                q73: "c",
+                q74: "e",
+                q75: "Fatty acids and glucose.",
+                q76: "An abnormal rhythm due to a defect in the conduction system.",
+                q77_1: "left or right",
+                q77_2: "aorta or pulmonary trunk",
+                q78: "d",
+                q79: "a",
+                q80: "e",
+                q81: "d",
+                q82: "e",
+                q83: "b",
+                q84: "e",
+                q85: "e"
+            };
+
+            // Evaluate the form inputs
+            let form = new FormData(this);
+            for (let question in correctAnswers) {
+                if (form.get(question) === correctAnswers[question]) {
+                    score++;
+                }
+            }
+
+            // Show the results
+            let totalQuestions = Object.keys(correctAnswers).length;
+            let resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = `You scored ${score} out of ${totalQuestions}.`;
+
+            // Optionally, display correct answers here
+            resultDiv.innerHTML += '<br><br>Correct Answers:<br>';
+            for (let question in correctAnswers) {
+                resultDiv.innerHTML += `${question}: ${correctAnswers[question]}<br>`;
+            }
+        }
+    </script>
+</body>
+</html>
